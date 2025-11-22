@@ -1,7 +1,7 @@
 # Student Academic Progress Tracker (SAPT) 🎓
 
 **Course:** Introduction to Problem Solving and Programming 
-**Student Name:** Vinayak
+**Student Name:** Vinayak Singhal
 **Reg No:** 25BCY10210
 
 ## 📝 Project Overview
@@ -42,4 +42,5 @@ The Student Academic Progress Tracker (SAPT) is a Python-based command-line appl
 5.  Relaunch the app and select **Option 1 (View)** to confirm the data was saved.
 
 ## 📸 Screenshots
+
 *(Note to evaluator: Please see the Project Report PDF for detailed execution screenshots)*
