@@ -1,0 +1,23 @@
+Project Problem Statement
+
+## 1. Problem Statement
+
+First-year engineering students currently lack a consolidated, offline tool to track their academic performance. Grades are often scattered across portals or papers, and calculating the Semester GPA (SGPA) by hand is time-consuming and prone to calculation errors. More seriously, students often fail to identify "at-risk" subjects-that is, backlogs-until it is too late.
+
+2. Project Scope
+The **Student Academic Progress Tracker (SAPT)** is a desktop utility built to bridge this gap.
+* **In Scope:**
+* Recording course name, credits, and marks.
+• Calculate SGPA based on the standard university grading logic.
+* Store data persistently in a local file.
+* Providing a text-based menu for interaction.
+* **Out of Scope:**
+
+Fetch live data from the University website using API Integration.
+GUI - Graphical User Interface.
+
+3. Target Users
+* **Primary:** First-semester Engineering Students.
+* **Secondary:** Academic Mentors/Proctors who need a quick way to calculate a student's potential GPA during counseling.
+
+4. High-Level Features * **CRUD Modules:** Create/Add, Read/View, and Delete course data. • **Logic Module:** Algorithm to convert raw marks (0-100) into Grade Points (0-10) and compute weighted averages. * **Storage Module:** CSV-based backend to persist data across sessions.
